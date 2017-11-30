@@ -1,0 +1,126 @@
+Stock
+GOOGLE
+Google Technology Company
+450
+80.6
+36279.99
+MutualFund
+CIG677
+CI Signature Select Canadian
+450
+20.0
+9000.0
+Stock
+FB
+Facebook Inc
+1000
+205.0
+205009.99
+Stock
+INTC
+Intel Corporation
+350
+58.99
+20656.49
+MutualFund
+ORCL
+Oracle Corporation
+800
+150.45
+120359.99999999999
+Stock
+ATVI
+Activision Blizzard Inc
+320
+12.88
+4131.59
+Stock
+ADBE
+Adobe Systems Incorporated
+670
+90.12
+60390.39
+MutualFund
+AMAT
+Applied Materials Inc
+335
+59.17
+19821.95
+Stock
+RC
+Real Canadian
+120
+45.0
+5409.99
+Stock
+ADSK
+Autodeak Inc
+945
+26.84
+25373.79
+MutualFund
+ADI
+Analog Devices Inc
+62
+33.0
+2046.0
+MutualFund
+TWOU
+2U Inc
+266
+3.32
+883.12
+Stock
+UOG
+University of Guelph, Canada
+780
+23.67
+18472.590000000004
+Stock
+TD
+Toronto Dominion Bank
+500
+50.0
+25009.99
+Stock
+UOT
+University of Toronto
+800
+150.0
+120009.99
+MutualFund
+AAN
+Aaron's Inc
+100
+26.6
+2660.0
+Stock
+AL
+Air Lease Corporation
+227
+44.6
+10134.19
+Stock
+ACXM
+Acxiom Corporation
+1050
+550.0
+577509.99
+MutualFund
+OZRK
+Bank of the Ozarks
+552
+56.01
+30917.52
+MutualFund
+HAWK
+Canadian Blackhawk Network Holdings Inc
+540
+54.0
+29160.0
+Stock
+BOH
+Bank of Hawaii Corporation
+335
+52.8
+17697.99
