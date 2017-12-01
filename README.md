@@ -4,8 +4,6 @@ In this program, I implement a GUI on top of a previous assignmet for the course
 users manage their Investments funds (Stocks and Mutual funds).
 
 ******************
-M. Omer Ashfaq
-0884798
 Assignment 3
 
 Test file I used is included in the Folder
